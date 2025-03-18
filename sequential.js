@@ -1,4 +1,5 @@
 // 25.03.14 - 알고리즘과 맛보기 자바스크립트
+// 순차검색
 
 function LinearSearch(pArr, nKey) {
   for (let i = 0; i < pArr.length; i++) {
